@@ -1,4 +1,4 @@
-const apiKey = `8cd0c16d05bf32861f3c4d12dcb0a24e`;
+const apiKey = `Open Weather api token`;
 
 async function fetchWeatherData(city) {
   try {
